@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand Ballure
-- 👀 I’m very interested in sports analytics and Game ai
+- 👀 I’m very interested in Sports Analytics and Game AI
 - 🌱 I’m currently learning ways to predict the winner for FIFA World Cup 2022
 
 <!---
