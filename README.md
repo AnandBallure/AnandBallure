@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AnandBallure/AnandBallure/blob/main/banner.gif)
+![MasterHead](https://github.com/AnandBallure/AnandBallure/blob/main/bannner.gif)
 
 <h1 align="center">Hi, I'm Anand Ballure</h1>
 <h3 align="center">Aspiring Data Scientist and Artificial Intelligence Enthusiast</h3>
@@ -6,9 +6,9 @@
 
 <img align="right" alt="analytics" width="400" src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/1cc2d961f9b95d233963a7868214ca93.gif">
 
-- 👨‍💻 All of my projects are available at [https://anandballure.github.io/](https://anandballure.github.io/)
+- Checkout my portfolio [https://anandballure.github.io/](https://anandballure.github.io/)
 
-- 📫 How to reach me **anandballureds@gmail.com**
+- Ask **anandballureds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
