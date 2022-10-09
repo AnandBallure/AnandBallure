@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AnandBallure/AnandBallure/blob/main/banner.gif)]
+![MasterHead](https://github.com/AnandBallure/AnandBallure/blob/main/banner.gif)
 
 <h1 align="center">Hi, I'm Anand Ballure</h1>
 <h3 align="center">Aspiring Data Scientist and Artificial Intelligence Enthusiast</h3>
