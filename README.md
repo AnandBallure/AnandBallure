@@ -6,9 +6,11 @@
 
 <img align="right" alt="analytics" width="400" src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/1cc2d961f9b95d233963a7868214ca93.gif">
 
-- Checkout my portfolio [https://anandballure.github.io/](https://anandballure.github.io/)
+- *I'm interested in Sports Analytics and Game AI, Currently working on predicting the winner of the upcoming FIFA 2022 World Cup*
 
-- Ask **anandballureds@gmail.com**
+- _Checkout my Portfolio [https://anandballure.github.io/](https://anandballure.github.io/)_
+
+- _Contact **anandballureds@gmail.com**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
