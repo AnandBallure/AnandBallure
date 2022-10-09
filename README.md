@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/142633/screenshots/13475592/media/c5d351d1af45d84cd3e7af796f84afd1.gif)]
+[![MasterHead](https://github.com/AnandBallure/AnandBallure/blob/main/banner.gif)]
 
 <h1 align="center">Hi, I'm Anand Ballure</h1>
 <h3 align="center">Aspiring Data Scientist and Artificial Intelligence Enthusiast</h3>
