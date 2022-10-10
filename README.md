@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Data Scientist and Artificial Intelligence Enthusiast</h3>
 
 
-<img align="right" alt="analytics" width="400" src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/1cc2d961f9b95d233963a7868214ca93.gif">
+<img align="right" alt="analytics" width="300" src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/1cc2d961f9b95d233963a7868214ca93.gif">
 
 - *I'm interested in Sports Analytics and Game AI, Currently working on predicting the winner of the upcoming FIFA 2022 World Cup*
 
